@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=01FF95&height=250&section=header&text=Jonguk%20Lee&fontSize=120&fontColor=ffffff" />
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=01FF95&height=300&section=header&text=Jonguk%20Lee&fontSize=120&fontColor=ffffff" />
 
 
 <h3 align="center">💻Skills</h3>
