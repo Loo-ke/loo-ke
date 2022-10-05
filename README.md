@@ -1,6 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=01FF95&height=300&section=header&text=Jonguk%20Lee&fontSize=120&fontColor=ffffff" />
 
 
+<div align="center">
+  <p>안녕하세요! 이종욱입니다.🙇‍♂️</p>
+  <p>현재 Kosta에서 Node.js 기반 풀스택 과정 수강 중입니다.</p>
+  <p>인생을 즐겁게~!</p>
+</div>
+
 <h3 align="center">💻Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
