@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0500BE&height=250&section=header&text=Jonguk%20Lee&fontSize=70&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0500BE&height=250&section=header&text=Jong-uk's%20Github!&fontSize=80&fontColor=ffffff&fontAlignY=40&fontAlign=50" />
 
 
 <div align="center">
