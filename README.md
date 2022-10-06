@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0500BE&height=250&section=header&text=Jonguk%20Lee&fontSize=50&fontColor=ffffff&fontAlign=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0500BE&height=250&section=header&text=Jonguk%20Lee&fontSize=70&fontColor=ffffff" />
 
 
 <div align="center">
@@ -23,4 +23,4 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0500BE&height=300&section=footer&text=&fontSize=90&fontColor=ffffff&)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0500BE&height=150&section=footer&text=&fontSize=90&fontColor=ffffff&)
