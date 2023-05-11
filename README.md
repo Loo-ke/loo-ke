@@ -8,11 +8,14 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+    <br />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp
+    <br />
     <img src="https://img.shields.io/badge/React.js-61dafb?style=flat-square&logo=React.js&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
+    <br />
     <img src="https://img.shields.io/badge/Node.js-026e00?style=flat-square&logo=Node.js&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
