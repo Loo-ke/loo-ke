@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/React.js-61dafb?style=flat-square&logo=React&logoColor=black"/>&nbsp
-    <img src="https://img.shields.io/badge/Node.js-026e00?style=flat-square&logo=Node&logoColor=black"/>&nbsp
+    <img src="https://img.shields.io/badge/Node.js-026e00?style=flat-square&logo=Node.js&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next&logoColor=black"/>&nbsp
   </div>
   <br />
