@@ -18,7 +18,6 @@
   <h3>:crown: About me :crown:</h3>  
   <div>
     <a href="mailto:looke2930@gmail.com" target="_blank"><img src="https://img.shields.io/badge/looke2930@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-  <a href="https://www.instagram.com/looke____/" target="_blank"><img src="https://img.shields.io/badge/looke____-E4405F?style=flat-square&logo=instagram&logoColor=white"/>&nbsp
   </div>
 </div>
 
