@@ -19,6 +19,9 @@
   <div>
     <a href="mailto:looke2930@gmail.com" target="_blank"><img src="https://img.shields.io/badge/looke2930@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   </div>
+  [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
+  username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+  (https://github.com/bi-sz/github-readme-stats)
 </div>
 
 
