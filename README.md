@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9ab6fc&text=&animation=twinkling&height=100)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=45&pause=1000&color=9AB6FC&random=false&width=1000&height=100&lines=Jong-uk's+Github!👋)](https://git.io/typing-svg)
   <div align="left">
-<a href="https://www.github.com/Loo-ke"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLoo-ke&count_bg=%239AB6FC&title_bg=%23555555&icon=&icon_color=%239EFFE2&title=github&edge_flat=false"/></a>
+<a href="https://github.com/Loo-ke"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLoo-ke&count_bg=%239AB6FC&title_bg=%23555555&icon=&icon_color=%239EFFE2&title=github&edge_flat=false"/></a>
   <br />
     <br />
   <picture align="center">
